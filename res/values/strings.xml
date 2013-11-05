@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BTClient!</string>
+    <string name="app_name">BTClient</string>
+    <string name="action_link">connect other device</string>
+     <string name="bt_disable">未打开蓝牙</string>
+</resources>
